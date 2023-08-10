@@ -3,6 +3,7 @@ body {
     box-sizing: content-box!important;
     color: #f8f9fa;
     background-image: url(BACKGROUND.png);
+        background-image:url("https://tapflowerexhibit.github.io/BACKGROUND.png");
     background-size: cover;
     background-color: black;
     background-color: #262a2e;
