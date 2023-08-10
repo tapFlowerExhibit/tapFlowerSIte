@@ -94,6 +94,7 @@ ul {
   }
   
   li a {
+    height: 5vh;
     display: block;
     color: white;
     text-align: center;
