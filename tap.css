@@ -1,0 +1,456 @@
+body {
+    min-height: 100vh;
+    box-sizing: content-box!important;
+    color: #f8f9fa;
+    background-image: url(BACKGROUND.png);
+    background-size: cover;
+    background-color: black;
+    background-color: #262a2e;
+}
+.bg-success {
+    background-color: black!important;
+    opacity: .3;
+    
+}
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+
+row{border:0px;margin-right:0;margin-left:0;max-width:100%; }
+#footer{
+    height: auto;
+}
+.navbar-expand-sm .navbar-collapse {
+    color: white;
+    display: flex!important;
+    flex-basis: auto;
+}
+.nav-link{
+    color: white!important;
+}
+#mainContainer{
+    padding: 4%;
+    height: 25vh;
+    box-sizing: content-box!important;
+    color: white;
+}
+#secondContainer {
+    MIN-HEIGHT: 37VH;
+    /* padding-right: 10%; */
+    /* padding-left: 10%; */
+    /* background-color: black; */
+    text-align: center;
+    margin: 15%;
+    MARGIN-TOP: 0%;
+}#secondContainerImages{
+    border-radius: 500px;
+    text-align: center;
+    width: 75%;
+    min-width: 100%;
+    /* min-height: 150px; */
+}
+#homeImages{
+    width: 70%;
+}
+#ceremonyImages{
+    text-align: center;
+    width: 75%;
+    /* min-width: 250px; */
+    border-radius: 180px;
+    text-align: center;
+    width: 75%;
+    /* min-width: 250px; */
+    /* min-height: 150px; */
+
+}
+#homeImage{
+    width: 100%;
+    height: 100%;
+}
+
+      
+#nav {
+    /* opacity: .8; */
+    /* BACKGROUND-COLOR: BLACK!IMPORTANT; */
+    /* width: 112%; */
+    height: 5vh;
+    margin-bottom: 5vh;
+}   
+      
+ul {
+    opacity: .8;
+    height: auto;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #262a2e;
+    width: 100vw;
+    position: absolute;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }p {
+    font-size: small;
+    margin-top: 0;
+    /* margin-bottom: 1rem; */
+}#mainContainer {
+    /* padding: 10%; */
+    /* min-height: 36vh; */
+    color: white;
+}
+a
+{
+    color: hotpink;
+
+}
+
+#thirdContainer {
+    bottom: 0;
+    opacity: .9;
+    align-items: center;
+    padding: 2%;
+    width: 100%;
+    display: flex;
+    color: white;
+    BACKGROUND-COLOR: #262a2e;
+    height: 15%;
+    text-align: center;
+    font-size: x-small;
+    font-style: italic;
+}#foota {
+    font-size: xx-small;
+}
+.h6, h6 {
+    font-size: x-small;
+}
+p{
+    width: 95%;
+    font-size: small;
+}.item:nth-child(n+11):nth-child(-n+15) { color: RED; }
+.item:nth-child(-n+5) { color: RED; }
+.page-wrapper
+{
+      position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 11111;
+    top: 35px;
+}
+
+footer p, footer strong, footer b, footer {
+    color: #b0b0b0;
+}
+
+.footer-top {
+    background: #303030;
+    background-size: cover;
+    background-position: center;
+    font-family: rubik;
+  
+}
+
+.footer-top, .footer-bottom {
+    background-color: #1c1f2f;
+}
+
+.footer-bottom {
+    border-top: 1px solid #313646;
+    background-color: #181828 !important;
+    color: #b0b0b0;
+    font-family: rubik;
+}
+
+.footer-site-info {
+    font-size: 92.86%;
+}
+#footer-navigation, #footer-navigation li a:hover, .custom-footer, .custom-footer li a:hover {
+    color: white;
+}
+
+#footer-navigation, #footer-navigation li a, .custom-footer, .custom-footer li a {
+    color: #99a9b5;
+    padding-top: 15px;
+}
+
+.footer-bottom ul {
+    margin: 0;
+}
+.inline-inside {
+    font-size: 0;
+    line-height: 0;
+}
+.clearfix:after, .clearfix:before {
+    content: "";
+    display: table;
+}
+#footer-menu li {
+    display: inline-block;
+    padding: 0 21px;
+    position: relative;
+    line-height: 1;
+}
+
+#footer-navigation, #footer-navigation li a, .custom-footer, .custom-footer li a {
+    color: #99a9b5;
+    padding-top: 15px;
+}
+
+#footer-navigation, #footer-navigation li a, .custom-footer, .custom-footer li a {
+
+    color: #99a9b5;
+    padding-top: 15px;
+}
+#footer-menu li+li:before {
+    content: '';
+    width: 0;
+    height: 100%;
+    position: absolute;
+    left: -1px;
+    top: 0;
+    font-size: 0;
+    border-left: 1px solid #232234;
+    border-right: 1px solid #333146;
+}
+
+
+navigation li a, .custom-footer, .custom-footer li a {
+    color: #99a9b5;
+    padding-top: 15px;
+}
+
+#footer-socials {
+    text-align: right;
+}
+
+#footer-socials .socials {
+    text-align: right;
+    margin: 0 -7px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#spacer{
+    height: 10vh;
+}
+
+a:hover {
+    color: #ff923f;
+  }
+  a:active {
+    color: grey;
+  }
+  
+  
+img {
+    border-style: none;
+    height: auto;
+    /* max-width: 100%; */
+    vertical-align: middle;
+}
+#leftSided{
+    /* padding-left: 0%; */
+    margin-bottom: 5%;
+    align-items: center;
+    /* MAX-height: 20VH; */
+    /* padding: 2%; */
+    text-align: -webkit-right;
+    display: flex;
+    width:100%;
+}
+#rightSided{
+    margin-bottom: 5%;
+    /* MAX-HEIGHT: 27VH; */
+    /* HEIGHT: 10VH; */
+    /* padding: 5%; */
+    align-items: center;
+    display: flex;
+    width:100%;
+    text-align: center;
+}
+#pictureBox{align-self: center;accent-color: auto;}
+#textBox{width: 70vw;}
+#mainCeremonyContent {
+    MARGIN: AUTO;
+    /* height: 105vh; */
+    width: 80%;
+    margin-top: 5%;
+}
+#rtextBox{/* padding: 10%; */text-align: left;/* width: 70vw; */}
+#culturesImage{
+    height: 30vh;
+}
+#culturesIntroImage{
+    max-height: 35vh;
+    text-align: center;
+    margin-top: 5%;
+}
+#mainCulturesContent {
+    margin: auto;
+    width: 85%;
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+#cultureText{
+    margin-bottom: 5%;
+
+
+}
+#ceremonyText{
+    margin-bottom: 10%;
+
+
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #262a2e;
+    border-color: #ffffff;
+}
+#culturesPage{
+    color: white;
+    background-image: url(BACKGROUND.png);
+}
+
+
+#spacerDiv{height: 10vh;}
+#footerLeft{
+    /* height: 32vh; */
+    width: 33%;
+}
+#footerCenter{
+    width: 33%;
+
+}
+#footerEnd{
+    width: 33%;
+
+
+}
+#tree1{
+
+
+    width: 50%;
+}
+#aboutPhoto{
+width: 100vw;
+text-align: center;
+}
+h1 {
+    margin-bottom: 2%;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    MARGIN-TOP: 5%;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+    }
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+
+
+#aboutUsContainer{
+    min-height: 85vh;
+}
+
+#ceremonyPage{
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+}
+#mainCeremonyContent {
+    MARGIN: AUTO;
+    min-height: 80vh;
+    width: 80%;
+    margin-top: 5%;
+}
+#headerText {
+    margin: auto;
+    width: 80%;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#rightBoxFlower{margin: auto;width: 30%;}
+
+#leftBoxFlower{
+    margin: auto;
+    width: 30%;
+}
+#leftFlowerGif{border-radius: 500px;width: 200%;}
+#middleBoxFlower{margin: auto;width: 30%;margin-left: 49%;}
+#rightFlowerImage{
+    border-radius: 500px;
+    width: 200%;
+}
+#flowerBox {
+    /* text-align: -webkit-center; */
+    text-align: center;
+    width: 30%;
+    height: fit-content;
+}
+
+#flowerBox2{
+    /* text-align: center; */
+    width: 30%;
+    height: fit-content;
+}
+
+#flowerBoxMain {
+    margin-bottom: 10%;
+    text-align: -webkit-center;
+    display: inline-flex;
+    animation-direction: alternate;
+}.h2, h2 {
+    font-size: 1.5rem;
+    /* color: #D48950; */
+}
+
+#flowerText{
+    margin-top: 5%;
+    text-align: center;
+}
+#flowerHeaders {
+    margin-bottom: 5%;
+    text-align: center;
+}
+#logo {
+    margin-top: .5%;
+    /* width: 10%; */
+    display: inline-flex;
+    max-height: 6vh;
+    max-width: 20%;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    width: 100%;
+}
