@@ -508,8 +508,7 @@ h1{
         /* width: 10%; */
         display: inline-flex;
         max-height: 6vh;
-        max-width: 20%;
-        min-width: 100px;
+        max-width: 30%;
     }
   }
   #secondContainer {
