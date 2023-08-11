@@ -445,13 +445,7 @@ h1{
     margin-bottom: 5%;
     text-align: center;
 }
-#logo {
-    margin-top: .5%;
-    /* width: 10%; */
-    display: inline-flex;
-    max-height: 6vh;
-    max-width: 20%;
-}
+
 [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
     cursor: pointer;
     width: 100%;
@@ -467,16 +461,10 @@ h1{
     width: 45VW;
     display: inline-flex;
     min-width: min-content;
-    max-height: 5vh;
-    max-width: 20%;
-}
-#logo {
-    /* margin-top: .5%; */
-    /* width: 10%; */
-    display: inline-flex;
     max-height: 6vh;
     max-width: 20%;
 }
+
 @media only screen and (max-width: 600px) {
     nav {
       margin-bottom: 10vh !important;
@@ -504,13 +492,7 @@ h1{
         margin-bottom: 3rem;
         height: 10vh;
     }
-    #logo {
-        /* margin-top: .5%; */
-        /* width: 10%; */
-        display: inline-flex;
-        min-width: 5vw;
-        width: 100px !important;
-    }
+
   }
   #secondContainer {
     MIN-HEIGHT: 37VH;
