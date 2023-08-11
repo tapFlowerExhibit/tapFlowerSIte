@@ -323,6 +323,7 @@ img {
 #culturesPage{
     color: white;
     background-image: url(BACKGROUND.png);
+    max-width: 100vw;
 }
 
 
