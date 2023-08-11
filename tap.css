@@ -496,7 +496,8 @@ h1{
     float: left;
         max-width:10%;
 }
-
+#logo{
+    max-width: 20%;
   }
   #secondContainer {
     MIN-HEIGHT: 37VH;
