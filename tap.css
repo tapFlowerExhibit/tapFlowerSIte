@@ -492,6 +492,10 @@ h1{
         margin-bottom: 3rem;
         height: 0vh;
     }
+    #logo-li {
+    float: left;
+        max-width:10%;
+}
 
   }
   #secondContainer {
