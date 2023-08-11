@@ -490,7 +490,7 @@ h1{
     }
     #spacerDiv {
         margin-bottom: 3rem;
-        height: 10vh;
+        height: 0vh;
     }
 
   }
