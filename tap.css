@@ -94,7 +94,7 @@ ul {
   }
   
   li a {
-    height: 5vh;
+    /* height: 5vh; */
     display: block;
     color: white;
     text-align: center;
@@ -465,6 +465,7 @@ h1{
     /* margin-top: .5%; */
     width: 45VW;
     display: inline-flex;
+    min-width: min-content;
     max-height: 5vh;
     max-width: 20%;
 }
@@ -474,4 +475,37 @@ h1{
     display: inline-flex;
     max-height: 6vh;
     max-width: 20%;
+}
+@media only screen and (max-width: 600px) {
+    nav {
+      margin-bottom: 10vh !important;
+    }
+    li a {
+        /* height: 5vh; */
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 1px 4px;
+        text-decoration: none;
+    }
+    #middleBoxFlower {
+        margin: auto;
+        width: 30%;
+    }
+    #flowerText {
+        margin-top: 0.5rem !important;
+        margin-left: 35%;
+        font-size: xx-small;
+        /* margin-top: 5%; */
+        text-align: center;
+    }
+  }
+  #secondContainer {
+    MIN-HEIGHT: 37VH;
+    /* padding-right: 10%; */
+    /* padding-left: 10%; */
+    /* background-color: black; */
+    text-align: center;
+    margin: 15%;
+    MARGIN-TOP: 5%;
 }
