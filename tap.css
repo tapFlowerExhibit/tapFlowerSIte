@@ -78,8 +78,9 @@ row{border:0px;margin-right:0;margin-left:0;max-width:100%; }
 }   
       
 ul {
+    height: 10vh;
     opacity: .8;
-    height: auto;
+    /* height: auto; */
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -94,7 +95,7 @@ ul {
   }
   
   li a {
-    /* height: 5vh; */
+    height: 5vh;
     display: block;
     color: white;
     text-align: center;
@@ -452,6 +453,8 @@ h1{
 }
 
 #logo-li {
+    position: absolute;
+    height: 10vh;
     float: left;
     /* Additional styling as needed */
   }
@@ -502,3 +505,4 @@ h1{
         margin-top:-3vh;
 
 }}
+
