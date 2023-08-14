@@ -42,7 +42,10 @@ row{border:0px;margin-right:0;margin-left:0;max-width:100%; }
     text-align: center;
     margin: 15%;
     MARGIN-TOP: 0%;
-}#secondContainerImages {
+}
+
+
+#secondContainerImages {
     border-radius: 500px;
     text-align: center;
     min-width: 120px;
