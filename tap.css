@@ -482,6 +482,15 @@ h1{
         padding: 1px 4px;
         text-decoration: none;
     }
+    #secondContainer {
+    MIN-HEIGHT: 37VH;
+    /* padding-right: 10%; */
+    /* padding-left: 10%; */
+    /* background-color: black; */
+    text-align: center;
+    margin: 15%;
+    PADDING-TOP: 5%;
+}
     #middleBoxFlower {
         margin: auto;
         width: 30%;
