@@ -490,7 +490,7 @@ h1{
     }
     #spacerDiv {
         margin-bottom: 3rem;
-        height: 10vh;
+        height: 5vh;
     }
     #logo-li {
     float: left;
@@ -503,12 +503,7 @@ h1{
   display: inline-flex;
   min-width: min-content;
   max-height: 6vh;
-  max-width: 20%;
+  max-width: 200px;
 }
 
-/* Media query for mobile devices */
-@media only screen and (max-width: 600px) {
-  #logo {
-    width: 70%; /* Adjust the width for mobile screens */
-  }
 }
