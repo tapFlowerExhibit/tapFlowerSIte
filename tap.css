@@ -505,5 +505,7 @@ h1{
   max-height: 6vh;
   max-width: 200px;
 }
+    #mainContainer{
+        margin-top:-3vh;
 
 }
