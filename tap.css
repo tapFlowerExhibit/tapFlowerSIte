@@ -42,12 +42,10 @@ row{border:0px;margin-right:0;margin-left:0;max-width:100%; }
     text-align: center;
     margin: 15%;
     MARGIN-TOP: 0%;
-}
-
-
-#secondContainerImages {
+}#secondContainerImages {
     border-radius: 500px;
     text-align: center;
+    min-width: 120px;
     width: 50%;
 }
 #homeImages{
@@ -72,7 +70,7 @@ row{border:0px;margin-right:0;margin-left:0;max-width:100%; }
       
 #nav {
     /* opacity: .8; */
-    /* BACKGROUND-COLOR: BLACK!IMPORTANT; */
+    BACKGROUND-COLOR: BLACK!IMPORTANT;
     /* width: 112%; */
     height: 5vh;
     margin-bottom: 5vh;
@@ -86,7 +84,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #262a2e;
+    background-color: #000;
     width: 100vw;
     position: absolute;
   }
@@ -131,7 +129,7 @@ a
     width: 100%;
     display: flex;
     color: white;
-    BACKGROUND-COLOR: #262a2e;
+    BACKGROUND-COLOR: #000;
     height: 15%;
     text-align: center;
     font-size: x-small;
@@ -509,4 +507,6 @@ h1{
         margin-top:-3vh;
 
 }}
+
+
 
