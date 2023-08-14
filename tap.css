@@ -455,15 +455,16 @@ h1{
     float: left;
     /* Additional styling as needed */
   }
-  #logo {
-    /* FLOAT: left; */
+#logo {
+    FLOAT: left;
     /* margin-top: .5%; */
     /* width: 45VW; */
-    /* display: inline-flex; */
+    display: inline-flex;
     min-width: 100px;
     /* max-height: 6vh; */
     max-width: 20%;
 }
+
 
 @media only screen and (max-width: 600px) {
     nav {
@@ -496,15 +497,7 @@ h1{
     float: left;
         max-width:10%;
 }
-/* Your existing logo styles */
-#logo {
-  float: left;
-  width: 45vw; /* Change the width to a relative value */
-  display: inline-flex;
-  /* min-width: min-content; */
-  max-height: 6vh;
-  /* max-width: 200px; */
-}
+
     #mainContainer{
         margin-top:-3vh;
 
