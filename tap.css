@@ -459,6 +459,7 @@ h1{
     /* Additional styling as needed */
   }
 #logo {
+    position: absolute;
     FLOAT: left;
     /* margin-top: .5%; */
     /* width: 45VW; */
