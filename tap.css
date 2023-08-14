@@ -490,7 +490,7 @@ h1{
     }
     #spacerDiv {
         margin-bottom: 3rem;
-        height: 0vh;
+        height: 10vh;
     }
     #logo-li {
     float: left;
@@ -507,9 +507,4 @@ h1{
     text-align: center;
     margin: 15%;
     MARGIN-TOP: 5%;
-}
-    @media only screen and (max-width: 600px)
-#spacerDiv {
-    margin-bottom: 10rem;
-    height: 0vh;
-}
+}}
