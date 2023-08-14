@@ -456,12 +456,12 @@ h1{
     /* Additional styling as needed */
   }
   #logo {
-    FLOAT: left;
+    /* FLOAT: left; */
     /* margin-top: .5%; */
-    width: 45VW;
-    display: inline-flex;
-    min-width: min-content;
-    max-height: 6vh;
+    /* width: 45VW; */
+    /* display: inline-flex; */
+    min-width: 100px;
+    /* max-height: 6vh; */
     max-width: 20%;
 }
 
@@ -501,9 +501,9 @@ h1{
   float: left;
   width: 45vw; /* Change the width to a relative value */
   display: inline-flex;
-  min-width: min-content;
+  /* min-width: min-content; */
   max-height: 6vh;
-  max-width: 200px;
+  /* max-width: 200px; */
 }
     #mainContainer{
         margin-top:-3vh;
