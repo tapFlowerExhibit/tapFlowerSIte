@@ -45,8 +45,6 @@ row{border:0px;margin-right:0;margin-left:0;max-width:100%; }
 }#secondContainerImages {
     border-radius: 500px;
     text-align: center;
-    width: 75%;
-    max-width: 172%;
     min-width: 120px;
 }
 #homeImages{
