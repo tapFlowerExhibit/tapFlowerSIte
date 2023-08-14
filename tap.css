@@ -496,15 +496,19 @@ h1{
     float: left;
         max-width:10%;
 }
-#logo{
-    max-width: 200px;
+/* Your existing logo styles */
+#logo {
+  float: left;
+  width: 45vw; /* Change the width to a relative value */
+  display: inline-flex;
+  min-width: min-content;
+  max-height: 6vh;
+  max-width: 20%;
+}
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 600px) {
+  #logo {
+    width: 70%; /* Adjust the width for mobile screens */
   }
-  #secondContainer {
-    MIN-HEIGHT: 37VH;
-    /* padding-right: 10%; */
-    /* padding-left: 10%; */
-    /* background-color: black; */
-    text-align: center;
-    margin: 15%;
-    MARGIN-TOP: 5%;
-}}
+}
