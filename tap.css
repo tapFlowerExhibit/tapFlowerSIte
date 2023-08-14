@@ -497,7 +497,7 @@ h1{
         max-width:10%;
 }
 #logo{
-    max-width: 20%;
+    max-width: 200px;
   }
   #secondContainer {
     MIN-HEIGHT: 37VH;
@@ -507,4 +507,9 @@ h1{
     text-align: center;
     margin: 15%;
     MARGIN-TOP: 5%;
+}
+    @media only screen and (max-width: 600px)
+#spacerDiv {
+    margin-bottom: 10rem;
+    height: 0vh;
 }
