@@ -472,6 +472,31 @@ h1{
 
 
 @media only screen and (max-width: 600px) {
+    #leftSided {
+    /* padding-left: 0%; */
+    margin-bottom: 5%;
+    align-items: flex-end;
+    /* MAX-height: 20VH; */
+    /* padding: 2%; */
+    text-align: -webkit-right;
+    display: flex;
+    width: 100%;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+    #rightSided {
+    margin-bottom: 5%;
+    /* MAX-HEIGHT: 27VH; */
+    /* HEIGHT: 10VH; */
+    /* padding: 5%; */
+    align-items: center;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    flex-direction: column;
+}
     nav {
       margin-bottom: 10vh !important;
     }
