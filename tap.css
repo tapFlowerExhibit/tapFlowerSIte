@@ -245,7 +245,8 @@ navigation li a, .custom-footer, .custom-footer li a {
     display: inline-block;
     vertical-align: middle;
 }
-#spacer{
+#spacerDiv {
+    margin-bottom: 5%;
     height: 10vh;
 }
 
