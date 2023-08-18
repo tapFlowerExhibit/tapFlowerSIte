@@ -464,7 +464,11 @@ h1{
     max-width: 20%;
     margin-top: -36%;
 }
-
+.rounded-circle {
+    height: 50%!important;
+    border-radius: 50%!important;
+    filter: grayscale(1);
+}
 
 @media only screen and (max-width: 600px) {
     #leftSided {
@@ -480,6 +484,12 @@ h1{
     align-content: stretch;
     justify-content: center;
     flex-direction: column-reverse;
+}
+    .rounded-circle {
+    max-height: 200px !important;
+    height: 50%!important;
+    border-radius: 50%!important;
+    filter: grayscale(1);
 }
     #rightSided {
     margin-bottom: 5%;
@@ -536,8 +546,3 @@ h1{
         margin-top:-3vh;
 
 }}
-.rounded-circle {
-    height: 50%!important;
-    border-radius: 50%!important;
-    filter: grayscale(1);
-}
